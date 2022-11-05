@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667653217 source:c:\users\ayomide greenwater\documents\c projects\student_record\main.c
+	<stdio.h>
+	<conio.h>
+
